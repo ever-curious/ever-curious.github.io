@@ -1,0 +1,9 @@
+{
+  "category": [
+    { "id": "1", "name": "Star Wars" },
+    { "id": "2", "name": "Back to the Future" },
+    { "id": "3", "name": "The Matrix"},
+    { "id": "4", "name": "Inception"},
+    { "id": "5", "name": "Interstellar"}
+  ]
+}
